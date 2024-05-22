@@ -7,7 +7,7 @@ permalink: /about/
 I am a graduate student at the University of Texas at Dallas in the 
 Master of Science in Geospatial Information Sciences (GIS) program.
 
-[ORCHID](https://orcid.org/0009-0000-9368-2634){:target="_blank"}
+[ORCID]({{site.orcid}}){:target="_blank"}
 
 
 ### Education

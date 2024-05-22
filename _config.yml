@@ -22,7 +22,7 @@ url: https://m-hutch.github.io # the base hostname & protocol for your site, e.g
 # twitter_username: 
 github_username:  m-hutch
 repository: m-hutch/m-hutch.github.io
-orchid: https://orcid.org/0009-0000-9368-2634
+orcid: https://orcid.org/0009-0000-9368-2634
 
 # show_downloads: false
 # google_analytics:
