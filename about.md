@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a PhD student at the University of Texas at Dallas in the Geospatial Information Science (GIS) program.
+I am a PhD student and Teaching Assistant at the University of Texas at Dallas in the Geospatial Information Science (GIS) program.
 
 [ORCID]({{site.orcid}}){:target="_blank"}
 
